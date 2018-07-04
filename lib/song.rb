@@ -16,6 +16,4 @@ class Song
     self.artist.name
     binding.pry
   end
-
-
 end
