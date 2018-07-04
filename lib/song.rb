@@ -14,11 +14,10 @@ class Song
 
   def artist_name
     self.artist.name
-    binding.pry
   end
 
   def self.all
     @@all
   end
-  
+
 end
